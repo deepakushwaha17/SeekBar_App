@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     TextView textView;
     SeekBar seekBar;
 
-    @Override
+    @Override 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
